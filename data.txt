@@ -1,0 +1,2 @@
+
+user=%7B%22id%22%3A7398966049%2C%22first_name%22%3A%22%E2%A9%99%20%E1%91%AB%E1%91%8C%21%E1%97%B4T%E1%92%AAY%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Medhanye7%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=191466313585926140&chat_type=sender&auth_date=1729207010&hash=e1fe897a5493d204de20ce8b0c1023b80e1107c90480fde03744899be84ee9d5
